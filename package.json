@@ -1,0 +1,14 @@
+{
+  "name": "com.geppy.unityeventaggregator",
+  "version": "0.0.1",
+  "displayName": "Unity Event Aggregator",
+  "description": "An adaption of Prism's Event Aggregator into Unity as a Singleton Component.",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Callum Else"
+  }
+}
